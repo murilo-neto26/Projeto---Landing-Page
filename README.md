@@ -1,5 +1,7 @@
 # 🌐 Projeto Landing Page - IFCE Campus Maranguape
 
+- [Acesse aqui o site](https://murilo-neto26.github.io/Projeto---Landing-Page/)
+
 ## 📘 1. Objetivo do Projeto
 
 O objetivo deste projeto é **criar uma landing page** para promover um **servidor do IFCE - Campus Maranguape**, aplicando todos os **conceitos de HTML e CSS** aprendidos até o momento.
