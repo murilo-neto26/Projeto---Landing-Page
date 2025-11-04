@@ -1,7 +1,5 @@
 # 🌐 Projeto Landing Page - IFCE Campus Maranguape
 
-- [Acesse aqui o site](https://murilo-neto26.github.io/Projeto---Landing-Page/)
-
 - ## 🧑‍💻 Desenvolvido por
 
 **Dupla:**  
