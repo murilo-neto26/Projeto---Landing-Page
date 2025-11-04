@@ -72,22 +72,39 @@ O arquivo CSS deve estar **externo**, localizado em `css/style.css`.
 ## 🗂️ 2.4 Estrutura de Pastas
 
 projeto/
+
 │
+
 ├── index.html
+
 │
+
 ├── html/
+
 │ ├── sobre.html
+
 │ ├── formacao.html
+
 │ ├── disciplinas.html
+
 │ └── contato.html
+
 │
+
 ├── css/
+
 │ └── style.css
+
 │
+
 ├── img/
+
 │ └── (imagens utilizadas)
+
 │
+
 └── docs/
+
 └── curriculo.pdf
 
 
